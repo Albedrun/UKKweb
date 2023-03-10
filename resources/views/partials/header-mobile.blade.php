@@ -18,7 +18,7 @@
             <ul class="navbar-mobile__list list-unstyled">
                 <li class="has-sub">
                     <a class="js-arrow" href="#">
-                        <i class="fas fa-copy"></i>Pages</a>
+                        <i class="fas fa-copy"></i>Register & Login</a>
                     <ul class="navbar-mobile-sub__list list-unstyled js-sub-list">
                         <li>
                             <a href="{{route ('login')}}">Login</a>

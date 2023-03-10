@@ -8,7 +8,7 @@
                     <li class="has-sub">
                         <a href="#">
                             <i class="fas fa-copy"></i>
-                            <span class="bot-line"></span>Pages</a>
+                            <span class="bot-line"></span>Register & Login</a>
                         <ul class="header3-sub-list list-unstyled">
                             <li>
                                 <a href="{{route ('login')}}">Login</a>

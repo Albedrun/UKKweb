@@ -29,7 +29,7 @@
                                         <input type="text" name="penerbit" class="form-control" value="{{ $crud->penerbit}}">
                                     </div>
                                     <div class="form-group">
-                                        <label for="nf-password" class=" form-control-label">Gambar</label>
+                                        <label for="nf-password" class=" form-control-label">Gambar | Wajib diisi!</label>
                                         <input type="file" name="gambar" class="form-control" placeholder="gambar" value="{{ $crud->gambar}}">
                                         <img src="{{asset('admin/images/buku/' . $crud->gambar)}}" width="200px" alt="">
                                     </div>
